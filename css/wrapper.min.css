@@ -1,1 +1,1 @@
-.wrapper{width:100%;display:flex;justify-content:center}
+.wrapper{width:100%;display:flex;justify-content:center;max-width:1920px;margin:0 auto}.wrapper--header{background:url(../img/header-bg.png) no-repeat bottom;height:980px}

@@ -2,4 +2,11 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  max-width: 1920px;
+  margin: 0px auto;
+}
+
+.wrapper--header {
+  background: url("../img/header-bg.png") no-repeat center bottom;
+  height: 980px;
 }
